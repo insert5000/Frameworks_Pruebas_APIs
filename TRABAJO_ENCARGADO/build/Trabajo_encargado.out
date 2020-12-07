@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.2}{Desarrollo}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{\277Que es un API?}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{API Rest}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{\277Qu\351 son las pruebas de API?}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Frameworks de Pruebas de APIs }{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Postman}{subsection.2.4}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.2}{SoapUI }{subsection.2.4}% 8
+\BOOKMARK [1][-]{section.3}{Conclusiones}{}% 9
+\BOOKMARK [1][-]{section.4}{Recomendaciones}{}% 10
+\BOOKMARK [2][-]{subsubsection.4.0.1}{ Planificaci\363n previa}{section.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.0.2}{ Uso de t\351cnicas de dise\361o de casos de prueba}{subsubsection.4.0.1}% 12
+\BOOKMARK [3][-]{subsubsection.4.0.3}{ Clasificaci\363n adecuada mediante suites}{subsubsection.4.0.1}% 13
+\BOOKMARK [3][-]{subsubsection.4.0.4}{ Programaci\363n de mantenimientos}{subsubsection.4.0.1}% 14
+\BOOKMARK [3][-]{subsubsection.4.0.5}{ Definici\363n del tipo de Regresi\363n a realizar}{subsubsection.4.0.1}% 15
+\BOOKMARK [3][-]{subsubsection.4.0.6}{ Automatizaci\363n}{subsubsection.4.0.1}% 16
+\BOOKMARK [1][-]{section.5}{Comparativa Postman y SoapUI}{}% 17
+\BOOKMARK [1][-]{section.6}{Bibliograf\355a}{}% 18
